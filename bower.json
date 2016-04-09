@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "description": "Plantilla para hacer aplicaciones web",
+  "main": "index.html",
+  "authors": [
+    "Abraham"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webapp",
+    "gulp",
+    "sass",
+    "jade"
+  ],
+  "homepage": "https://github.com/Abrahamrobles/webapp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
